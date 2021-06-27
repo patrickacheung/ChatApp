@@ -1,0 +1,36 @@
+{
+  "files": {
+    "app.js": "/chat-app/static/js/app.8dfb566f.chunk.js",
+    "app.js.map": "/chat-app/static/js/app.8dfb566f.chunk.js.map",
+    "runtime~app.js": "/chat-app/static/js/runtime~app.8f35fe57.js",
+    "runtime~app.js.map": "/chat-app/static/js/runtime~app.8f35fe57.js.map",
+    "static/js/2.bf0e6636.chunk.js": "/chat-app/static/js/2.bf0e6636.chunk.js",
+    "static/js/2.bf0e6636.chunk.js.map": "/chat-app/static/js/2.bf0e6636.chunk.js.map",
+    "fonts/AntDesign.ttf": "/chat-app/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/chat-app/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/chat-app/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/chat-app/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/chat-app/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/chat-app/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/chat-app/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/chat-app/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/chat-app/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/chat-app/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/chat-app/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/chat-app/./fonts/SimpleLineIcons.ttf",
+    "fonts/SpaceMono-Regular.ttf": "/chat-app/./fonts/SpaceMono-Regular.ttf",
+    "favicon-16.png": "/chat-app/favicon-16.png",
+    "favicon-32.png": "/chat-app/favicon-32.png",
+    "favicon.ico": "/chat-app/favicon.ico",
+    "index.html": "/chat-app/index.html",
+    "manifest.json": "/chat-app/manifest.json",
+    "serve.json": "/chat-app/serve.json",
+    "static/js/2.bf0e6636.chunk.js.LICENSE.txt": "/chat-app/static/js/2.bf0e6636.chunk.js.LICENSE.txt",
+    "static/media/BG.png": "/chat-app/static/media/BG.01b45cb7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.8f35fe57.js",
+    "static/js/2.bf0e6636.chunk.js",
+    "static/js/app.8dfb566f.chunk.js"
+  ]
+}
