@@ -6,13 +6,9 @@ Built using React Native and hosted on AWS Amplify. Leverages AWS AppSync to cre
 
 ## Demo
 
----
-
 Please visit <https://patrickacheung.github.io/chat-app> for a live FE only demo. BE is in development.
 
 ## Launch
-
----
 
 To run locally:
 
@@ -33,7 +29,5 @@ Navigate to <http://localhost:19002>
 Select **Run on Android/iOS** or **Run in web browser**
 
 ## Credits
-
----
 
 Assets provided by notjust.dev
